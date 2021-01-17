@@ -1,5 +1,7 @@
 # Predicting migration using satellite imagery
 
+Hi, while working on analyzing migration in India I tried to experiment with predicting migration indicators using satellite imagery. This is my log of the same. 
+
 ## Introduction
 
 In India, 
