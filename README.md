@@ -17,12 +17,12 @@ In India,
 
 ### Dataset
 
-1. Census Dataset(Ground Truth) (Check out MigrationGroundTruth.xlsx)
+1. Census Dataset(Ground Truth) (Check out MigrationGroundTruth.xlsx in the Dataset Folder)
 2. Processed Satellite Images- 635 districts (Check out Preprocessing of Landsat7 Images Folder)
 
 ### Step 1: Data Preprocessing from census tables
-### Step 2: Image Preprocessing from Satellite Data an Feature Extraction
-### Step 3: Developing Machine Learning Framework
+### Step 2: Image Preprocessing from Satellite Data an Feature Extraction (Find features in the dataset folder)
+### Step 3: Developing Machine Learning Framework (_Prediction.ipynb_)
 
 ## Results 
 
