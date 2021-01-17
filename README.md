@@ -17,7 +17,7 @@ In India,
 
 ### Dataset
 
-1. Census Dataset(Ground Truth) (Check out Migration Ground Truth Folder)
+1. Census Dataset(Ground Truth) (Check out MigrationGroundTruth.xlsx)
 2. Processed Satellite Images- 635 districts (Check out Preprocessing of Landsat7 Images Folder)
 
 ### Step 1: Data Preprocessing from census tables
