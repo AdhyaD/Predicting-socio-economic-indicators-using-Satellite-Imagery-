@@ -1,12 +1,36 @@
 # Predicting migration using satellite imagery
-Satellite Data Analysis
 
-Development is a much-debated topic in today's world. I perform this research study to understand the development and associated factors more holistically at a finer granularity in a country like India.
+## Introduction
 
-This project is an amalgam of statistical and machine learning outputs backed with economic intuition. I inculcate knowledge of computer science and machine learning at every step to solve the problem of policymaking.
+In India, 
+1. The data driven governance regime depends to a great extent on administrative data collected by government departments.
+2. This data is used to monitor the efficacy of schemes and policies to shape routine everyday administration.
+3. Research on migration India has suffered due to lack of consistent and robust data. It belies regional and spatial disparity. Migration is motivated by the need to secure a sustainable  and  economically stable livelihood and happens from areas of poor development towards highly urbanized areas. Hence, it influences development.
 
-With the aim to analyse and establish relationships between different factors that lead to socioeconomic development in a country and internal migration in a country by using statistical tools and find an alternative to the cumbersome task of the census which, happened every ten years by using satellite imagery.
+## Aim and Objectives
 
-Through this study, we can see that migration within a country is correlated to its development and can also be used to assess its growth.
+1. Use geospatial and census data analysis to enable novel data intensive approach to analyse and measure human development.
+2. Predict and track migration patterns and their relationship with other socioeconomic variables
+3. Study how technology could monitor economic development and analyse as well as predict trends relating to the growth of a country.
+
+## Proposed Methods
+
+### Dataset
+
+1. Census Dataset(Ground Truth)
+2. Processed Satellite Images- 635 districts
+
+### Step 1: Data Preprocessing from census tables
+### Step 2: Image Preprocessing from Satellite Data an Feature Extraction
+### Step 3: Developing Machine Learning Framework
+
+## Results 
+
+1. To offer an alternative to the task of the census, we try to use satellite imagery as its proxy. We compared several machine learning models and observed the Extreme Gradient Boosting or   XGBoost classifier , performed the best and gave us accuracies and f1-scores, ranging from    63%-85%.
+
+## Conlusion
+
+We have established that satellite imagery could indeed be used to predict socioeconomic growth and migration patterns of a country
+ 
 
 
